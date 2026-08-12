@@ -1,12 +1,12 @@
 {
-  "version_code": 272,
-  "version_name": "1.2.26",
-  "version_label": "mobile-v1.2.26-20260811",
+  "version_code": 273,
+  "version_name": "1.2.27",
+  "version_label": "mobile-v1.2.27-20260812",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-mobile.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.2.26-20260811.apk",
-  "size_mb": 53,
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.2.27-20260812.apk",
+  "size_mb": 54,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "Fix riproduzione: cleartext m3u.top",
-  "released_at": "2026-08-11T13:26:05Z"
+  "release_notes": "1.2.27 — Fix definitivo: l'app tornava 'senza internet' dopo lo standby su alcuni box (Freebox POP). Ora si riconnette da sola. + doppio mirror download.",
+  "released_at": "2026-08-12T15:16:51Z"
 }
