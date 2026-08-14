@@ -1,12 +1,12 @@
 {
-  "version_code": 275,
-  "version_name": "1.2.29",
-  "version_label": "mobile-v1.2.29-20260814",
+  "version_code": 276,
+  "version_name": "1.2.30",
+  "version_label": "mobile-v1.2.30-20260814",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-mobile.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.2.29-20260814.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.2.30-20260814.apk",
   "size_mb": 54,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "Riconnessione di rete più affidabile dopo lo standby: l'app torna online da sola, senza bisogno di riavviarla.",
-  "released_at": "2026-08-14T09:11:38Z"
+  "release_notes": "Rete più resistente: l'app aggiorna da sola gli indirizzi dei server, così un dominio bloccato non ti lascia a piedi.",
+  "released_at": "2026-08-14T10:13:46Z"
 }
