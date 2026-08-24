@@ -1,12 +1,12 @@
 {
-  "version_code": 284,
-  "version_name": "1.2.38",
-  "version_label": "mobile-v1.2.38-20260823",
+  "version_code": 285,
+  "version_name": "1.2.39",
+  "version_label": "mobile-v1.2.39-20260824",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-mobile.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.2.38-20260823.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.2.39-20260824.apk",
   "size_mb": 54,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "Zona Dazn Go: sezione DAZN dedicata (IT/ES/DE/UK/PT/Arabo + beIN) con eventi, locandine, classifiche, carosello e menu player DAZN.",
-  "released_at": "2026-08-23T11:55:55Z"
+  "release_notes": "Player live: switch automatico e IMMEDIATO tra HLS e TS se un canale non parte. Zapping canali con le frecce SU/GIÙ a tutto schermo (Rai 1 → Rai 2 → Rai 3). Barra info EPG a tutta larghezza con grafica premium (ORA / A SEGUIRE + avanzamento).",
+  "released_at": "2026-08-24T11:00:49Z"
 }
