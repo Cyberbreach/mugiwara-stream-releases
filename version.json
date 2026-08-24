@@ -1,12 +1,12 @@
 {
-  "version_code": 286,
-  "version_name": "1.2.40",
-  "version_label": "v1.2.40-20260824",
+  "version_code": 287,
+  "version_name": "1.2.41",
+  "version_label": "v1.2.41-20260824",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-tv.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.2.40-20260824.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.2.41-20260824.apk",
   "size_mb": 54,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "Barra info canale/EPG ridisegnata: pannello premium con FONDO scuro + accento rosso, resta visibile ~8s (prima spariva subito). Include lo switch HLS/TS immediato e lo zapping canali con le frecce SU/GIÙ a tutto schermo.",
-  "released_at": "2026-08-24T11:13:09Z"
+  "release_notes": "Fix switch HLS→TS: ora flippa anche quando lo stream bufferizza ma il video non parte (HLS con solo audio / decode bloccato), non solo quando la sorgente e' muta. Watchdog startup a 2 livelli (2.5s buffer vuoto / 6s stuck).",
+  "released_at": "2026-08-24T13:28:46Z"
 }
