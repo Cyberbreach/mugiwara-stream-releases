@@ -1,12 +1,12 @@
 {
-  "version_code": 285,
-  "version_name": "1.2.39",
-  "version_label": "mobile-v1.2.39-20260824",
+  "version_code": 286,
+  "version_name": "1.2.40",
+  "version_label": "mobile-v1.2.40-20260824",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-mobile.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.2.39-20260824.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.2.40-20260824.apk",
   "size_mb": 54,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "Player live: switch automatico e IMMEDIATO tra HLS e TS se un canale non parte. Zapping canali con le frecce SU/GIÙ a tutto schermo (Rai 1 → Rai 2 → Rai 3). Barra info EPG a tutta larghezza con grafica premium (ORA / A SEGUIRE + avanzamento).",
-  "released_at": "2026-08-24T11:00:49Z"
+  "release_notes": "Barra info canale/EPG ridisegnata: pannello premium con FONDO scuro + accento rosso, resta visibile ~8s (prima spariva subito). Include lo switch HLS/TS immediato e lo zapping canali con le frecce SU/GIÙ a tutto schermo.",
+  "released_at": "2026-08-24T11:13:09Z"
 }
