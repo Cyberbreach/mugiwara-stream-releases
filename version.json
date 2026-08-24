@@ -1,12 +1,12 @@
 {
-  "version_code": 288,
-  "version_name": "1.2.42",
-  "version_label": "v1.2.42-20260824",
+  "version_code": 289,
+  "version_name": "1.2.43",
+  "version_label": "v1.2.43-20260824",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-tv.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.2.42-20260824.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.2.43-20260824.apk",
   "size_mb": 54,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "Fix audio AC3/EAC3/DTS 'rotto' su box Amlogic (Freebox POP e simili): audio ora decodificato via software FFmpeg (PCM), niente piu underrun/scatti. Il video resta sempre su decoder hardware (nessun rallentatore).",
-  "released_at": "2026-08-24T15:48:10Z"
+  "release_notes": "Auto-switch formato live meno aggressivo: soglia startup 2.5s->6s (il backend risponde in ~2s, evita flip prematuri HLS/TS segnalati dal team). Include il fix audio AC3 via FFmpeg della 1.2.42.",
+  "released_at": "2026-08-24T19:54:20Z"
 }
