@@ -1,12 +1,12 @@
 {
-  "version_code": 290,
-  "version_name": "1.2.44",
-  "version_label": "mobile-v1.2.44-20260825",
+  "version_code": 291,
+  "version_name": "1.2.45",
+  "version_label": "mobile-v1.2.45-20260825",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-mobile.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.2.44-20260825.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.2.45-20260825.apk",
   "size_mb": 54,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "Modalita admin (solo Amministratori): tieni premuto un titolo -> Nascondi titolo: sparisce dal catalogo per tutti ed e eliminato definitivamente dopo 7 giorni (ripristinabile dal pannello entro la settimana). Sfoglia: rimossi i titoli duplicati. Include il fix audio AC3 e lo switch formato live.",
-  "released_at": "2026-08-25T00:04:25Z"
+  "release_notes": "Modalita admin: il tasto 'Nascondi titolo' (long-press) ora funziona in TUTTE le sezioni (Sfoglia, sezioni, ricerca), non solo in Home.",
+  "released_at": "2026-08-25T13:05:23Z"
 }
