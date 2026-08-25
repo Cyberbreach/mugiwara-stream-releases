@@ -1,12 +1,12 @@
 {
-  "version_code": 289,
-  "version_name": "1.2.43",
-  "version_label": "v1.2.43-20260824",
+  "version_code": 290,
+  "version_name": "1.2.44",
+  "version_label": "v1.2.44-20260825",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-tv.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.2.43-20260824.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.2.44-20260825.apk",
   "size_mb": 54,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "Auto-switch formato live meno aggressivo: soglia startup 2.5s->6s (il backend risponde in ~2s, evita flip prematuri HLS/TS segnalati dal team). Include il fix audio AC3 via FFmpeg della 1.2.42.",
-  "released_at": "2026-08-24T19:54:20Z"
+  "release_notes": "Modalita admin (solo Amministratori): tieni premuto un titolo -> Nascondi titolo: sparisce dal catalogo per tutti ed e eliminato definitivamente dopo 7 giorni (ripristinabile dal pannello entro la settimana). Sfoglia: rimossi i titoli duplicati. Include il fix audio AC3 e lo switch formato live.",
+  "released_at": "2026-08-25T00:04:25Z"
 }
