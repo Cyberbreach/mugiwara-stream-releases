@@ -1,12 +1,12 @@
 {
-  "version_code": 294,
-  "version_name": "1.2.48",
-  "version_label": "mobile-v1.2.48-20260826",
+  "version_code": 295,
+  "version_name": "1.2.49",
+  "version_label": "mobile-v1.2.49-20260826",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-mobile.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.2.48-20260826.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.2.49-20260826.apk",
   "size_mb": 54,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "✨ Nuovo screensaver ambient stile Apple TV: dopo qualche minuto di inattività l'app mostra backdrop cinematografici delle uscite recenti in alta qualità, con orologio elegante. Premi un tasto qualsiasi per tornare.",
-  "released_at": "2026-08-26T16:25:57Z"
+  "release_notes": "🛠️ Correzione importante: risolto il blocco 'connessione assente' che poteva comparire dopo lo standby su alcuni box (Freebox POP e simili). L'app ora si auto-ripara da sola in pochi secondi senza dover riavviarla.",
+  "released_at": "2026-08-26T20:26:59Z"
 }
