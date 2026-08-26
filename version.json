@@ -1,12 +1,12 @@
 {
-  "version_code": 293,
-  "version_name": "1.2.47",
-  "version_label": "v1.2.47-20260826",
+  "version_code": 294,
+  "version_name": "1.2.48",
+  "version_label": "v1.2.48-20260826",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-tv.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.2.47-20260826.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.2.48-20260826.apk",
   "size_mb": 54,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "Modalita admin: risolto il menu 'Nascondi' che si chiudeva al rilascio del tasto (ora ti lascia scegliere). Modale ridisegnata premium: poster/backdrop, effetto glass, icone, glow rosso e animazione.",
-  "released_at": "2026-08-25T23:39:24Z"
+  "release_notes": "✨ Nuovo screensaver ambient stile Apple TV: dopo qualche minuto di inattività l'app mostra backdrop cinematografici delle uscite recenti in alta qualità, con orologio elegante. Premi un tasto qualsiasi per tornare.",
+  "released_at": "2026-08-26T16:25:57Z"
 }
