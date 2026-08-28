@@ -1,12 +1,12 @@
 {
-  "version_code": 297,
-  "version_name": "1.2.51",
-  "version_label": "mobile-v1.2.51-20260828",
+  "version_code": 298,
+  "version_name": "1.2.52",
+  "version_label": "mobile-v1.2.52-20260828",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-mobile.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.2.51-20260828.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.2.52-20260828.apk",
   "size_mb": 54,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "⚽ Dazn Go by Mugiwara: canali rinominati 'Eventi', locandine reali degli eventi sui canali, grafica in stile DAZN autentico e brand Mugiwara ovunque (incluso watermark nel player).",
-  "released_at": "2026-08-28T20:40:25Z"
+  "release_notes": "🎬 Dazn Go: nuova schermata d'attesa premium in stile Netflix quando un canale si ricollega ('Riconnessione in corso, cerchiamo la sorgente migliore'). Rimesse le icone DAZN sui canali. Brand Mugiwara su header e watermark.",
+  "released_at": "2026-08-28T21:41:23Z"
 }
