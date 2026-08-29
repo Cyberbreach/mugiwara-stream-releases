@@ -1,12 +1,12 @@
 {
-  "version_code": 298,
-  "version_name": "1.2.52",
-  "version_label": "v1.2.52-20260828",
+  "version_code": 299,
+  "version_name": "1.2.53",
+  "version_label": "v1.2.53-20260829",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-tv.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.2.52-20260828.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.2.53-20260829.apk",
   "size_mb": 54,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "🎬 Dazn Go: nuova schermata d'attesa premium in stile Netflix quando un canale si ricollega ('Riconnessione in corso, cerchiamo la sorgente migliore'). Rimesse le icone DAZN sui canali. Brand Mugiwara su header e watermark.",
-  "released_at": "2026-08-28T21:41:23Z"
+  "release_notes": "📺 Live TV: risolti i falsi 'Riconnessione' sui canali sani — il rilevamento stallo ora tollera i cali di bitrate (scene statiche) e non interviene mentre il player sta già ricaricando. Nessuna interruzione se lo stream arriva regolarmente.",
+  "released_at": "2026-08-29T11:57:45Z"
 }
