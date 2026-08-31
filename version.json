@@ -1,12 +1,12 @@
 {
-  "version_code": 299,
-  "version_name": "1.2.53",
-  "version_label": "v1.2.53-20260829",
+  "version_code": 300,
+  "version_name": "1.2.54",
+  "version_label": "v1.2.54-20260831",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-tv.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.2.53-20260829.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.2.54-20260831.apk",
   "size_mb": 54,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "📺 Live TV: risolti i falsi 'Riconnessione' sui canali sani — il rilevamento stallo ora tollera i cali di bitrate (scene statiche) e non interviene mentre il player sta già ricaricando. Nessuna interruzione se lo stream arriva regolarmente.",
-  "released_at": "2026-08-29T11:57:45Z"
+  "release_notes": "1.2.54 — Fix buffering durante la riproduzione: il recupero di rete non interrompe piu lo stream in corso (niente piu blocchi mentre guardi film e serie).",
+  "released_at": "2026-08-31T18:56:10Z"
 }
