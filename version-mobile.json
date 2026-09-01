@@ -1,12 +1,12 @@
 {
-  "version_code": 301,
-  "version_name": "1.2.55",
-  "version_label": "mobile-v1.2.55-20260901",
+  "version_code": 302,
+  "version_name": "1.2.56",
+  "version_label": "v1.2.56-20260901",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-mobile.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.2.55-20260901.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.2.56-20260901.apk",
   "size_mb": 54,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "1.2.55 — Fix notifiche: il banner nuova notifica esce una volta sola per notifica, non piu ad ogni ritorno alla home da un film o dal player.",
-  "released_at": "2026-09-01T13:39:43Z"
+  "release_notes": "1.2.56 — Fix selezione puntata: scegliendo un episodio dalla scheda serie parte quello giusto, non piu sempre il primo.",
+  "released_at": "2026-09-01T20:03:11Z"
 }
