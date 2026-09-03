@@ -1,12 +1,12 @@
 {
-  "version_code": 305,
-  "version_name": "1.2.59",
-  "version_label": "mobile-v1.2.59-20260903",
+  "version_code": 306,
+  "version_name": "1.2.60",
+  "version_label": "mobile-v1.2.60-20260903",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-mobile.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.2.59-20260903.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.2.60-20260903.apk",
   "size_mb": 54,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "1.2.59 — Notifiche: immagini intere (poster 2:3) + nuove icone animate nel menu (Lucide, wow al focus)",
-  "released_at": "2026-09-03T20:28:14Z"
+  "release_notes": "1.2.60 — Reazioni del dettaglio (mi piace / non mi piace / hot) con nuove icone animate al focus",
+  "released_at": "2026-09-03T20:38:09Z"
 }
