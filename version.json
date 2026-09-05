@@ -1,12 +1,12 @@
 {
-  "version_code": 308,
-  "version_name": "1.2.62",
-  "version_label": "v1.2.62-20260905",
+  "version_code": 309,
+  "version_name": "1.2.63",
+  "version_label": "v1.2.63-20260905",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-tv.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.2.62-20260905.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.2.63-20260905.apk",
   "size_mb": 54,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "Dazn Go: canali Sky Sport (dal nostro restream) come Eventi 8-16 con loghi a colori. Gli eventi si agganciano al canale reale via EPG (es. Roma-Atalanta -> Sky Sport Calcio) con badge 'su ...'.",
-  "released_at": "2026-09-05T08:43:58Z"
+  "release_notes": "1.2.63 — Fix volume: su mobile i tasti volume regolano di nuovo l'audio con un canale live aperto",
+  "released_at": "2026-09-05T15:59:21Z"
 }
