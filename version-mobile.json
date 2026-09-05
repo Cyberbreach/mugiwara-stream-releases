@@ -1,12 +1,12 @@
 {
-  "version_code": 314,
-  "version_name": "1.2.68",
-  "version_label": "mobile-v1.2.68-20260905",
+  "version_code": 315,
+  "version_name": "1.2.69",
+  "version_label": "mobile-v1.2.69-20260905",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-mobile.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.2.68-20260905.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.2.69-20260905.apk",
   "size_mb": 54,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "1.2.68 — Monitoraggio: nome utente leggibile nel pannello di diagnosi",
-  "released_at": "2026-09-05T20:13:13Z"
+  "release_notes": "1.2.69 — Monitoraggio: battito periodico durante la riproduzione (visione lunga tracciata con precisione)",
+  "released_at": "2026-09-05T21:21:44Z"
 }
