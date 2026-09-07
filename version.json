@@ -1,12 +1,12 @@
 {
-  "version_code": 316,
-  "version_name": "1.2.70",
-  "version_label": "v1.2.70-20260907",
+  "version_code": 317,
+  "version_name": "1.2.71",
+  "version_label": "v1.2.71-20260907",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-tv.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.2.70-20260907.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.2.71-20260907.apk",
   "size_mb": 54,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "1.2.70 — Live TV: sezioni Recenti (canali guardati) e Preferiti (long-press per aggiungere), per profilo",
-  "released_at": "2026-09-07T13:16:42Z"
+  "release_notes": "1.2.71 — Live: avvio più robusto (ritenta la stessa sorgente prima di cambiare formato, protegge i canali TS lenti)",
+  "released_at": "2026-09-07T13:29:42Z"
 }
