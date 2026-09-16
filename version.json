@@ -1,12 +1,12 @@
 {
-  "version_code": 318,
-  "version_name": "1.2.72",
-  "version_label": "v1.2.72-20260907",
+  "version_code": 319,
+  "version_name": "1.2.73",
+  "version_label": "v1.2.73-20260916",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-tv.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.2.72-20260907.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.2.73-20260916.apk",
   "size_mb": 54,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "1.2.72 — Audio live: decodifica hardware per l'AAC (niente più scatti audio ogni pochi secondi sui canali)",
-  "released_at": "2026-09-07T20:45:45Z"
+  "release_notes": "1.2.73 — Player: nuovo selettore Qualità video (Auto / Full HD / HD) sugli stream HLS, con adattamento automatico alla connessione. Fix: le serie con un solo episodio non vengono più aperte come film.",
+  "released_at": "2026-09-16T21:13:23Z"
 }
