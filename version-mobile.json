@@ -1,12 +1,12 @@
 {
-  "version_code": 319,
-  "version_name": "1.2.73",
-  "version_label": "mobile-v1.2.73-20260916",
+  "version_code": 320,
+  "version_name": "1.2.74",
+  "version_label": "mobile-v1.2.74-20260916",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-mobile.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.2.73-20260916.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.2.74-20260916.apk",
   "size_mb": 53,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "1.2.73 — Player: nuovo selettore Qualità video (Auto / Full HD / HD) sugli stream HLS, con adattamento automatico alla connessione. Fix: le serie con un solo episodio non vengono più aperte come film.",
-  "released_at": "2026-09-16T21:13:23Z"
+  "release_notes": "1.2.74 — Controllo genitori: le categorie per adulti (ADULTI XXX) ora sono nascoste di default. Ogni profilo può sbloccarle con il PIN da Gestisci profili → Contenuti +18; i profili Kids non le vedono mai.",
+  "released_at": "2026-09-16T21:34:38Z"
 }
