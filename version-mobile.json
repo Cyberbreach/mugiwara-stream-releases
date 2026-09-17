@@ -1,12 +1,12 @@
 {
-  "version_code": 332,
-  "version_name": "1.2.86",
-  "version_label": "mobile-v1.2.86-20260918",
+  "version_code": 333,
+  "version_name": "1.2.87",
+  "version_label": "mobile-v1.2.87-20260918",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-mobile.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.2.86-20260918.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.2.87-20260918.apk",
   "size_mb": 54,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "Dettaglio più cinematografico: sfondo tinto col colore del titolo, velato e senza sfocatura. Nuove sigle stile Plex in sottofondo sulle serie. Rifiniture grafiche e correzioni.",
-  "released_at": "2026-09-17T23:11:45Z"
+  "release_notes": "Leggibilità dettaglio: lo sfondo sotto la locandina ora resta scuro (il colore del titolo si vede come tono ma non copre più titolo e info). Rifiniture.",
+  "released_at": "2026-09-17T23:43:58Z"
 }
