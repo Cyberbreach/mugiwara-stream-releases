@@ -1,12 +1,12 @@
 {
-  "version_code": 324,
-  "version_name": "1.2.78",
-  "version_label": "mobile-v1.2.78-20260917",
+  "version_code": 325,
+  "version_name": "1.2.79",
+  "version_label": "mobile-v1.2.79-20260917",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-mobile.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.2.78-20260917.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.2.79-20260917.apk",
   "size_mb": 53,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "Aggiornamento più affidabile sui telefoni (Xiaomi/MIUI e altri): compare la conferma di installazione invece di bloccarsi con errore. Schermate di errore più chiare e curate.",
-  "released_at": "2026-09-17T04:27:04Z"
+  "release_notes": "Grafica più coerente: nuovo caricamento di marca (teschio/anello) in tutta l'app e schermata di accesso ridisegnata in stile premium con nuove icone.",
+  "released_at": "2026-09-17T04:42:44Z"
 }
