@@ -1,12 +1,12 @@
 {
-  "version_code": 323,
-  "version_name": "1.2.77",
-  "version_label": "v1.2.77-20260917",
+  "version_code": 324,
+  "version_name": "1.2.78",
+  "version_label": "v1.2.78-20260917",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-tv.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.2.77-20260917.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.2.78-20260917.apk",
   "size_mb": 54,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "Corretto: il carosello in cima alla home poteva sparire dopo aver riordinato le sezioni. Rimesso sempre al suo posto.",
-  "released_at": "2026-09-16T23:34:54Z"
+  "release_notes": "Aggiornamento più affidabile sui telefoni (Xiaomi/MIUI e altri): compare la conferma di installazione invece di bloccarsi con errore. Schermate di errore più chiare e curate.",
+  "released_at": "2026-09-17T04:27:04Z"
 }
