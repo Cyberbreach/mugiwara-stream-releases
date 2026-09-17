@@ -1,12 +1,12 @@
 {
-  "version_code": 325,
-  "version_name": "1.2.79",
-  "version_label": "v1.2.79-20260917",
+  "version_code": 326,
+  "version_name": "1.2.80",
+  "version_label": "v1.2.80-20260917",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-tv.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.2.79-20260917.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.2.80-20260917.apk",
   "size_mb": 54,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "Grafica più coerente: nuovo caricamento di marca (teschio/anello) in tutta l'app e schermata di accesso ridisegnata in stile premium con nuove icone.",
-  "released_at": "2026-09-17T04:42:44Z"
+  "release_notes": "Rifinitura premium: effetto luce (glow) alla selezione su episodi, cast, stagioni, categorie Live TV, menu Profilo e Personalizza Home. Player più pulito (tasto Prossimo sistemato).",
+  "released_at": "2026-09-17T05:05:08Z"
 }
