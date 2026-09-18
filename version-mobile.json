@@ -1,12 +1,12 @@
 {
-  "version_code": 334,
-  "version_name": "1.2.88",
-  "version_label": "mobile-v1.2.88-20260918",
+  "version_code": 335,
+  "version_name": "1.2.89",
+  "version_label": "mobile-v1.2.89-20260918",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-mobile.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.2.88-20260918.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.2.89-20260918.apk",
   "size_mb": 54,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "Dettaglio stile Netflix: fade scuro forte a sinistra (titolo/trama/info) e in basso (sotto i bottoni) + backdrop più velato, così tutto si legge bene su ogni sfondo.",
-  "released_at": "2026-09-18T01:12:31Z"
+  "release_notes": "Sport Go: la zona sport cambia nome (era Dazn Go) e ora raccoglie TUTTI gli sport; hero piu grande e cinematografico. Canali dalle sorgenti aggiornate della regia.",
+  "released_at": "2026-09-18T10:48:58Z"
 }
