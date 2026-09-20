@@ -1,12 +1,12 @@
 {
   "version_code": 335,
   "version_name": "1.2.89",
-  "version_label": "v1.2.89-20260918",
+  "version_label": "v1.2.89-20260920",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-tv.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.2.89-20260918.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.2.89-20260920.apk",
   "size_mb": 54,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "Sport Go: la zona sport cambia nome (era Dazn Go) e ora raccoglie TUTTI gli sport; hero piu grande e cinematografico. Canali dalle sorgenti aggiornate della regia.",
-  "released_at": "2026-09-18T10:48:58Z"
+  "release_notes": "Dettaglio: sfumatura più morbida e cinematografica tra info e wallpaper (via il velo piatto), testo leggibile e immagine viva. Player TV: comandi sotto la barra ora a icone (label solo sul comando a fuoco) — non sforano più a destra.",
+  "released_at": "2026-09-20T08:14:43Z"
 }
