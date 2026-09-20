@@ -1,12 +1,12 @@
 {
-  "version_code": 335,
-  "version_name": "1.2.89",
-  "version_label": "v1.2.89-20260920",
+  "version_code": 336,
+  "version_name": "1.2.90",
+  "version_label": "v1.2.90-20260920",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-tv.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.2.89-20260920.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.2.90-20260920.apk",
   "size_mb": 54,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "Dettaglio: sfumatura più morbida e cinematografica tra info e wallpaper (via il velo piatto), testo leggibile e immagine viva. Player TV: comandi sotto la barra ora a icone (label solo sul comando a fuoco) — non sforano più a destra.",
-  "released_at": "2026-09-20T08:14:43Z"
+  "release_notes": "Sottotitoli: disattivati i sottotitoli generati da IA (poco affidabili). Restano OpenSubtitles + Subdl e la sincronizzazione automatica AI.",
+  "released_at": "2026-09-20T08:18:25Z"
 }
