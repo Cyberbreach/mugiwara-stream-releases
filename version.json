@@ -1,12 +1,12 @@
 {
-  "version_code": 342,
-  "version_name": "1.2.96",
-  "version_label": "v1.2.96-20261003",
+  "version_code": 343,
+  "version_name": "1.2.97",
+  "version_label": "v1.2.97-20261013",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-tv.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.2.96-20261003.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.2.97-20261013.apk",
   "size_mb": 54,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "Ripristino navigazione canali Live TV (si era rotta nella 1.2.95). Il fix del focus in Home verra rifatto in modo mirato senza toccare la Live TV.",
-  "released_at": "2026-10-02T23:17:33Z"
+  "release_notes": "Fix riproduzione: alcuni film/serie in HLS che davano 'formato non supportato' (es. Legend) ora partono — retry automatico forzando HLS quando il container non viene riconosciuto.",
+  "released_at": "2026-10-13T19:42:09Z"
 }
