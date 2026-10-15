@@ -1,12 +1,12 @@
 {
-  "version_code": 344,
-  "version_name": "1.2.98",
-  "version_label": "mobile-v1.2.98-20261015",
+  "version_code": 345,
+  "version_name": "1.2.99",
+  "version_label": "mobile-v1.2.99-20261015",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-mobile.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.2.98-20261015.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.2.99-20261015.apk",
   "size_mb": 54,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "Fix focus Home: niente piu salti al menu premendo giu/destra tra le righe (isolato alla Home, Live TV invariata).",
-  "released_at": "2026-10-15T20:24:45Z"
+  "release_notes": "Navigazione molto più fluida (fino a 3 volte più veloce sui box), layout stile Netflix adattivo a ogni TV (Impostazioni > Dimensione interfaccia), il focus non salta più al menu, INDIETRO porta subito al menu, margini sicuri per TV con overscan (menu e barra del player).",
+  "released_at": "2026-10-15T22:59:22Z"
 }
