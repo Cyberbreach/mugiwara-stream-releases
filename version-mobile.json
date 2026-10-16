@@ -1,12 +1,12 @@
 {
-  "version_code": 356,
-  "version_name": "1.4.0",
-  "version_label": "mobile-v1.4.0-20261016",
+  "version_code": 357,
+  "version_name": "1.4.1",
+  "version_label": "mobile-v1.4.1-20261016",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-mobile.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.4.0-20261016.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.4.1-20261016.apk",
   "size_mb": 55,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "Player più premium: nuovi badge qualità bianchi (SD/HD/FULL HD/4K secondo la qualità in riproduzione) e pulsanti ridisegnati.",
-  "released_at": "2026-10-16T16:40:59Z"
+  "release_notes": "Player: scegliendo una qualità (es. Full HD) il video passa subito a quella qualità; il badge la segue con una dissolvenza.",
+  "released_at": "2026-10-16T16:53:46Z"
 }
