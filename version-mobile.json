@@ -1,12 +1,12 @@
 {
-  "version_code": 345,
-  "version_name": "1.2.99",
-  "version_label": "mobile-v1.2.99-20261015",
+  "version_code": 346,
+  "version_name": "1.3.0",
+  "version_label": "mobile-v1.3.0-20261016",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-mobile.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.2.99-20261015.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.3.0-20261016.apk",
   "size_mb": 54,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "Navigazione molto più fluida (fino a 3 volte più veloce sui box), layout stile Netflix adattivo a ogni TV (Impostazioni > Dimensione interfaccia), il focus non salta più al menu, INDIETRO porta subito al menu, margini sicuri per TV con overscan (menu e barra del player).",
-  "released_at": "2026-10-15T22:59:22Z"
+  "release_notes": "NOVITÀ «Richiedi»: se un film o una serie non c'è, cercalo e premi Richiedi (anche una sola stagione): arriva su Mugiwara in pochi secondi. Nuovo splash, badge 4K/FULL HD nel player, schede dettaglio più fluide.",
+  "released_at": "2026-10-16T00:07:38Z"
 }
