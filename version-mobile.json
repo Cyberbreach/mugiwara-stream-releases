@@ -1,12 +1,12 @@
 {
-  "version_code": 367,
-  "version_name": "1.4.11",
-  "version_label": "mobile-v1.4.11-20261023",
+  "version_code": 368,
+  "version_name": "1.4.12",
+  "version_label": "mobile-v1.4.12-20261023",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-mobile.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.4.11-20261023.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.4.12-20261023.apk",
   "size_mb": 57,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "Serie, Film, Anime e Sfoglia: le sottosezioni ora sono in alto e le copertine sono più grandi. Episodi: l'episodio selezionato non resta più attaccato al bordo della TV. Profili: su ogni TV compare per primo l'ultimo profilo usato lì.",
-  "released_at": "2026-10-23T20:05:16Z"
+  "release_notes": "Nuovo: filtri in Film, Serie TV, Anime e Sfoglia (ordina per voto, più visti, anno di uscita, titolo). Primo tab sempre «Tutti». Nella scheda compare il logo della piattaforma o casa di produzione. «Cerca» in cima al menu. Tasto Indietro: prima torna in cima alla pagina, poi apre il menu.",
+  "released_at": "2026-10-23T20:39:29Z"
 }
