@@ -1,12 +1,12 @@
 {
-  "version_code": 382,
-  "version_name": "1.4.26",
-  "version_label": "v1.4.26-20261024",
+  "version_code": 383,
+  "version_name": "1.4.27",
+  "version_label": "v1.4.27-20261024",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-tv.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.4.26-20261024.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.4.27-20261024.apk",
   "size_mb": 51,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "Carosello Home e testate Film/Serie/Anime: immagini ritagliate più in alto (si vedono i volti). Preferiti: card non più tagliate in alto.",
-  "released_at": "2026-10-24T20:43:58Z"
+  "release_notes": "Serie in ITA e SUB ITA: scegli la lingua in testa agli episodi (ricordata per titolo), Riprendi per lingua. Episodi a blocchi da 50 e INDIETRO a livelli per risalire subito.",
+  "released_at": "2026-10-24T21:03:59Z"
 }
