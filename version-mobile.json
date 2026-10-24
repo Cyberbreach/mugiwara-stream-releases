@@ -1,12 +1,12 @@
 {
-  "version_code": 371,
-  "version_name": "1.4.15",
-  "version_label": "mobile-v1.4.15-20261023",
+  "version_code": 372,
+  "version_name": "1.4.16",
+  "version_label": "mobile-v1.4.16-20261024",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-mobile.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.4.15-20261023.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.4.16-20261024.apk",
   "size_mb": 57,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "Nuovo: «Le mie richieste» nel Profilo (in attesa, arrivate, non disponibili). Nuovi tag lingua sulle locandine (ITA, SUB ITA, ENG e altre) e nella scheda le lingue audio e sottotitoli vere.",
-  "released_at": "2026-10-23T22:36:51Z"
+  "release_notes": "1.4.16: Le mie richieste nel menu (ognuno vede le sue) · La mia lista e Cosa guardo? in cima alla Home · Cosa guardo? (ex Mood) torna a funzionare con AI nuova · Aggiorna sempre in vista nel menu e nel Profilo",
+  "released_at": "2026-10-24T08:56:36Z"
 }
