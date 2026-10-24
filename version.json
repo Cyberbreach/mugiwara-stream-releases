@@ -1,12 +1,12 @@
 {
-  "version_code": 378,
-  "version_name": "1.4.22",
-  "version_label": "v1.4.22-20261024",
+  "version_code": 379,
+  "version_name": "1.4.23",
+  "version_label": "v1.4.23-20261024",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-tv.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.4.22-20261024.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.4.23-20261024.apk",
   "size_mb": 51,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "Scheda: bottoni ridisegnati stile Mugiwara (focus oro, Riproduci rosso con filo oro; RIPRENDI bianco con barra quando c'è da continuare), tutto allineato.",
-  "released_at": "2026-10-24T18:54:51Z"
+  "release_notes": "Oro Mugiwara anche in Home (TV e telefono) e nella scheda sul telefono: Riproduci con filo oro, Riprendi bianco con barra, focus oro.",
+  "released_at": "2026-10-24T20:00:02Z"
 }
