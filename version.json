@@ -1,12 +1,12 @@
 {
-  "version_code": 384,
-  "version_name": "1.4.28",
-  "version_label": "v1.4.28-20261024",
+  "version_code": 385,
+  "version_name": "1.4.29",
+  "version_label": "v1.4.29-20261024",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-tv.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.4.28-20261024.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.4.29-20261024.apk",
   "size_mb": 51,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "Episodi su TV: pannello a due colonne stile Netflix (SINISTRA da qualsiasi episodio = lingua/stagioni/blocchi), tieni premuto SU/GIÙ per scorrere veloce (salti da 5 e 10), lingua ITA/SUB senza salti di focus.",
-  "released_at": "2026-10-24T21:29:59Z"
+  "release_notes": "Serie ITA/SUB: si apre nella lingua che hai guardato di più (Riprendi giusto).",
+  "released_at": "2026-10-24T21:45:26Z"
 }
