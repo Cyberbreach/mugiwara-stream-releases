@@ -1,12 +1,12 @@
 {
-  "version_code": 376,
-  "version_name": "1.4.20",
-  "version_label": "mobile-v1.4.20-20261024",
+  "version_code": 377,
+  "version_name": "1.4.21",
+  "version_label": "mobile-v1.4.21-20261024",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-mobile.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.4.20-20261024.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.4.21-20261024.apk",
   "size_mb": 57,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "Telefono: icone nuove anche nella barra in basso (stesso stile del menu TV, Anime = cappello di paglia).",
-  "released_at": "2026-10-24T14:24:50Z"
+  "release_notes": "Scheda film/serie: azioni sotto la locandina con icone nuove; Riproduci riprende dall'episodio giusto; episodi subito sotto e GIÙ porta all'episodio da riprendere.",
+  "released_at": "2026-10-24T17:49:03Z"
 }
