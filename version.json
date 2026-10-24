@@ -1,12 +1,12 @@
 {
-  "version_code": 377,
-  "version_name": "1.4.21",
-  "version_label": "v1.4.21-20261024",
+  "version_code": 378,
+  "version_name": "1.4.22",
+  "version_label": "v1.4.22-20261024",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-tv.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.4.21-20261024.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.4.22-20261024.apk",
   "size_mb": 51,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "Scheda film/serie: azioni sotto la locandina con icone nuove; Riproduci riprende dall'episodio giusto; episodi subito sotto e GIÙ porta all'episodio da riprendere.",
-  "released_at": "2026-10-24T17:49:03Z"
+  "release_notes": "Scheda: bottoni ridisegnati stile Mugiwara (focus oro, Riproduci rosso con filo oro; RIPRENDI bianco con barra quando c'è da continuare), tutto allineato.",
+  "released_at": "2026-10-24T18:54:51Z"
 }
