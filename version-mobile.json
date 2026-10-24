@@ -1,12 +1,12 @@
 {
-  "version_code": 374,
-  "version_name": "1.4.18",
-  "version_label": "mobile-v1.4.18-20261024",
+  "version_code": 375,
+  "version_name": "1.4.19",
+  "version_label": "mobile-v1.4.19-20261024",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-mobile.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.4.18-20261024.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-mobile-v1.4.19-20261024.apk",
   "size_mb": 57,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "1.4.18: tornando da La mia lista o da Cosa guardo? con Indietro il focus torna sul pulsante della Home (prima finiva sul menu)",
-  "released_at": "2026-10-24T09:17:43Z"
+  "release_notes": "1.4.19: Piattaforme con filtri come la Sfoglia (Tutti/Film/Serie TV, generi, ordine, anni, voto) · nuove icone del menu disegnate per Mugiwara (Anime = cappello di paglia)",
+  "released_at": "2026-10-24T09:41:43Z"
 }
