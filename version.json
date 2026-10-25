@@ -1,12 +1,12 @@
 {
-  "version_code": 388,
-  "version_name": "1.4.32",
-  "version_label": "v1.4.32-20261025",
+  "version_code": 389,
+  "version_name": "1.4.33",
+  "version_label": "v1.4.33-20261025",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-tv.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.4.32-20261025.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.4.33-20261025.apk",
   "size_mb": 51,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "Fix episodio 1 che rimandava su Riproduci; pulsante Migliora link quando il video scatta (passa a SC/AP HLS fast e riparte da lì); banner del player solo sulla fonte AP HLS",
-  "released_at": "2026-10-25T00:24:49Z"
+  "release_notes": "One Piece e serie lunghe: SINISTRA dagli episodi va sulla stagione corrente, lingue raggiungibili; banner sulle fonti HD (altadefinizione)",
+  "released_at": "2026-10-25T00:50:31Z"
 }
