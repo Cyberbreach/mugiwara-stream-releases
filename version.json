@@ -1,12 +1,12 @@
 {
-  "version_code": 395,
-  "version_name": "1.4.40",
-  "version_label": "v1.4.40-20261104",
+  "version_code": 396,
+  "version_name": "1.4.41",
+  "version_label": "v1.4.41-20261105",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-tv.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.4.40-20261104.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.4.41-20261105.apk",
   "size_mb": 51,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "Live senza blocchi. Sottotitoli: ora cambia davvero lingua e non compaiono se spenti. Ripara link solo se il link è davvero rotto. Tasto Riprendi corretto; dopo una riparazione il film non risulta più già visto.",
-  "released_at": "2026-11-04T22:44:08Z"
+  "release_notes": "Il messaggio Migliora link compare solo se il problema è davvero la fonte, non la tua connessione",
+  "released_at": "2026-11-05T08:45:43Z"
 }
