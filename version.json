@@ -1,12 +1,12 @@
 {
-  "version_code": 404,
-  "version_name": "1.4.49",
-  "version_label": "v1.4.49-20261123",
+  "version_code": 405,
+  "version_name": "1.4.50",
+  "version_label": "v1.4.50-20261123",
   "apk_url": "https://github.com/Cyberbreach/mugiwara-stream-releases/releases/download/latest/mugiwara-stream-tv.apk",
-  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.4.49-20261123.apk",
+  "apk_url_mirror": "https://backend.mugiwara.top/download/mugiwara-stream-v1.4.50-20261123.apk",
   "size_mb": 51,
   "min_supported_code": 30,
   "force_update": false,
-  "release_notes": "Miglioramenti di stabilità",
-  "released_at": "2026-11-23T07:09:50Z"
+  "release_notes": "Messaggio chiaro quando un dispositivo viene scollegato per il limite dispositivi",
+  "released_at": "2026-11-23T08:23:44Z"
 }
